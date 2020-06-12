@@ -1,10 +1,14 @@
-title: The Ring Ring Company systems status page
+title: "The Ring Ring Company systems status page "
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
-  meta_description: This status page provides updated information about The Ring
-    Ring Company systems normal operation, incidents that may happen and their
-    resolution.
+  meta_description: At RingRing, transparency is one of our core values. Our
+    mission is to provide you a stable and reliable service, and part of that
+    promise is keeping you fully informed whenever issues arise. Below, you’ll
+    find the current status of RingRing services, as well as any recent issues
+    or incidents we may have had. If you're experiencing any problems related to
+    our services and don’t see anything about it below, please write us at
+    support@ringring.be.
   systems:
     - name: Website
       description: Our company public facing website
@@ -29,5 +33,5 @@ params:
     - Website
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
+    href='https://www.ringring.be/'>RingRing.be</a> provides world-class
     software for all kind of sectors.
